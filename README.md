@@ -6,10 +6,10 @@
 
 
 - 🔭 I’m currently working as a web developer and want to become full stack web developer with MERN stack
-- 🌱 I’m currently learning ReactJs,NodeJS,Javascript
-- 👯 I’m looking to collaborate on web development and programming field.
-- 🤔 I’m looking for help with internships
-- 💬 Ask me about anything related to web development and programming .. I'm ready to help
+- 🌱 I’m currently learning ReactJs,NodeJS,Javascript ✍
+- 👯 I’m looking to collaborate on web development and programming field. 
+- 🤔 I’m looking for help with internships👀
+- 💬 Ask me about anything related to web development and programming .. I'm ready to help 🙂🙂
 - 📫 How to reach me: tanmay26012000@gmail.com
-- ⚡ Fun fact: I love childrens so being an adult I might sometime end up being a child to fulfil my demand..
+- ⚡ Fun fact: I love childrens so being an adult I might sometime end up being a child to fulfil my demand 😂
 
