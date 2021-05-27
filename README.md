@@ -1,6 +1,5 @@
-### Hi there 👋
-### Myself Tanmay Jain,
-### A passionate , hardworking and focused person.
+   ### Hi 👋, Myself Tanmay Jain
+   ### A passionate , hardworking and focused person.
 <!--
 **tanmay2601/tanmay2601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
