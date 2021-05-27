@@ -1,9 +1,10 @@
 ### Hi there 👋
-
+### Myself Tanmay Jain,
+### A passionate , hardworking and focused person.
 <!--
 **tanmay2601/tanmay2601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working as a web developer and want to become full stack web developer with MERN stack
 - 🌱 I’m currently learning ReactJs,NodeJS,Javascript
